@@ -1,5 +1,3 @@
-<!-- Profile Banner -->
-![AI & Data Science Banner](https://img.freepik.com/free-vector/artificial-intelligence-banner-template_23-2149022554.jpg?w=1060)
 
 # 👋 Hi, I'm **Kalyanamoorthy R**  
 🎓 **B.Tech in Artificial Intelligence & Data Science** (2023–2026)  
