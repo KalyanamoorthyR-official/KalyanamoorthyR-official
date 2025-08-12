@@ -1,6 +1,6 @@
 
-# 👋 Hi, I'm **Kalyanamoorthy R**  
-🎓 **B.Tech in Artificial Intelligence & Data Science** (2022–2026)  
+# 👋 Hi, I'm **KALYANAMOORTHY R**  
+🎓 **B.Tech in Artificial Intelligence & Data Science** (2023–2026)  
 💻 **Aspiring AI Engineer | Full-Stack Developer | Innovator**  
 
 ---
